@@ -1,0 +1,14 @@
+devops\HexConnection.class
+devops\RegisterServlet.class
+devops\Customer.class
+devops\UpdateCustomer.class
+devops\LoginServlet.class
+devops\DeleteCustomer.class
+devops\Logout.class
+devops\AuthUsers.class
+devops\GetDataService.class
+devops\HibernateUtil.class
+devops\LoginService.class
+devops\GetData.class
+devops\AddCustomer.class
+devops\SessionFilter.class
