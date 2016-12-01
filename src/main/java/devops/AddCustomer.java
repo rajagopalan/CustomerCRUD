@@ -68,7 +68,7 @@ public class AddCustomer extends HttpServlet {
 	public int add(String name, String address, String contactNumber, String alternateContactNumber, String specialty, String qualificationSummary)
 			throws ServletException, IOException {
 		int check = 1;
-   	 LOGGER.info("Adding new Customer to Database..");
+   	 LOGGER.info("Adding new Customer to Database...");
     	
         Session session = HibernateUtil.getSessionFactory().openSession();
         
@@ -76,6 +76,7 @@ public class AddCustomer extends HttpServlet {
         
         session.beginTransaction();
         Customer c1 = new Customer();
+
         
         c1.setName(name);
         c1.setAddress(address);
