@@ -38,7 +38,7 @@
 		<TABLE class="headerclass">
 			<tr>
 				<TD><img src="hexaware_logo.png" alt="logo" /></TD>
-				<TD><h1>DevOps Solutions</h1></TD>
+				<TD><h1>DevOps</h1></TD>
 				
 				<TD>
 				<TABLE class="productVersionclass">
